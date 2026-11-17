@@ -1,6 +1,0 @@
-# Versions used for the November 2026 reimplementation (Python 3.13)
-numpy==2.3.5
-pandas==2.2.3
-scikit-learn==1.8.0
-lightgbm==4.6.0
-matplotlib==3.10.8
